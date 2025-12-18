@@ -22,5 +22,5 @@
 - Настройка CI/CD для Python-проектов
 
 ### 📫 Как со мной связаться:
-- Telegram: @IvVolkoff
+- Telegram: [@IvVolkoff](https://t.me/IvVolkoff)
 - Email: volk.beata201@yandex.ru
