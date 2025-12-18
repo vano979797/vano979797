@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Волков Иван, Я Python Backend-разработчик
 
-<!--
-**vano979797/vano979797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Технологии и навыки:
+- **Backend:** Python, Flask, FastAPI, Django
+- **Базы данных:** PostgreSQL, SQLAlchemy, Alembic
+- **Инфраструктура:** Docker, Linux, Nginx, CI/CD (GitHub Actions)
+- **Прочее:** REST API, Git, RabbitMQ/Celery, pytest, Jenkins, Postman
 
-Here are some ideas to get you started:
+### 📝 Принципы работы
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Чистый, поддерживаемый код и явные контракты API
+- Оптимизация производительности на уровне БД
+- Детальное логирование и мониторинг ключевых операций
+- Контейнеризация и автоматизация развёртывания
+
+### 🎯 Экспертиза
+
+- Оптимизация работы с большими данными в PostgreSQL
+- Миграция и поддержка legacy-кода на Python
+- Проектирование REST API для интеграций
+- Настройка CI/CD для Python-проектов
+
+### 📫 Как со мной связаться:
+- Telegram: [@IvVolkoff]
+- Email: volk.beata201@yandex.ru
